@@ -103,7 +103,7 @@ This data preparation pipeline enables us to:
 
 The implementation of this project required the use of serveral algorithms. As we were comparing traditional algorithms with
 multi objective algorithms. We decided upon two different traditional algorithms, quick sort and bubble sort. As for the multi
-objective algorithms, we had the NSGA-II sorting algorithm recommended to us by Professor Kaphammer, so we decided to look into
+objective algorithms, we had the NSGA-II sorting algorithm recommended to us by Professor Kapfhammer, so we decided to look into
 that one. More specifics about each algorithm are below.
 
 ### The Quick Sort Algorithm
